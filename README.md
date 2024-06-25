@@ -22,4 +22,4 @@ startup.cmd -m standalone
 ```
 3. 访问console中给出的地址例如：http://127.0.0.1:8848/nacos/index.html
 
-## [tutor01-nacos-config](/README.md)
+## [tutor01-nacos-config](./tutor01-nacos-config/README.md)
