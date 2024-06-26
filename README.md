@@ -24,3 +24,4 @@ startup.cmd -m standalone
 
 ## [tutor01-nacos-config](./tutor01-nacos-config/README.md)
 ## [tutor02-nacos-discovery](./tutor02-nacos-discovery/README.md)
+## [tutor03-nacos-discovery-consumer](./tutor03-nacos-discovery-consumer/README.md)
