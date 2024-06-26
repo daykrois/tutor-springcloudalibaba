@@ -5,11 +5,9 @@ Spring Cloud Alibaba是阿里巴巴开源的一套微服务开发框架，它提
 
 ## 开发环境
 > JDK: 8
-> 
-> SpringBoot: 2.6.13
-> 
-> spring-cloud-alibaba: 2021.0.5.0
 
+## 初始化项目地址
+> https://start.aliyun.com/
 ## nacos-server下载
 > nacos项目地址   https://github.com/alibaba/nacos
 > 
